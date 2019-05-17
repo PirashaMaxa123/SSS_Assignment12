@@ -6,19 +6,21 @@ In this project used Synchronizer Token Pattern to avoid Cross-site Request Forg
 
 Download and Installation
 Clone the project to the local Machine
-git clone https://github.com/AnuradhaSD/CSRF_SynchronizerTokenPattern.git
+git clone https://github.com/PirashaMaxa123/SSS_Assignment12.git
 
 Run application
 Application Implemented Using Eclipse IDE
-Appache TomCat Should be Configured(Used Tomcat V7.0)
+Appache TomCat Should be Configured(Used Tomcat V8.0)
+
 Login Form URL
-localhost:8080/CSRF/login.jsp
+http://localhost:10343/SynchronizedTokenPattern/login.jsp
 
 Credentials
-UserName :asd
-Password :123
+UserName :maxa
+Password :maxa123
 Upon Sceessful login directs to Form
 
 Form URL
-localhost:8080/CSRF/form.jsp
-Blog URL : Synchronizer Token Pattern
+http://localhost:10343/SynchronizedTokenPattern/form.jsp
+
+Blog URL : https://pirashapas.blogspot.com/2019/05/it16117006sssassignment1.html
